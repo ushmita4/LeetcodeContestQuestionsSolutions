@@ -1,3 +1,4 @@
+https://leetcode.com/contest/weekly-contest-252/problems/three-divisors/
 class Solution {
     public boolean isThree(int n) {
         int count=0,i;
